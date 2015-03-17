@@ -1,6 +1,4 @@
 function bubbleSort(arr){
-  var i,
-      count;
   for (count = 0; count < arr.length-1; count++) {
       console.log(count);
       i=0;
